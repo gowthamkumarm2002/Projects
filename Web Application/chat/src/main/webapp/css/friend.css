@@ -1,0 +1,149 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  	background:  #c4b7a6;
+    width: 500px;
+    padding: 30px;
+    border-radius: 10px;
+}
+.form2{
+    height: 50px;
+    width: 100%;
+	display:flex;
+    background:  #dac292;
+    border-radius: 10px;
+    padding: 0px 20px;
+    display: flex;
+    justify-content: space-between;
+}
+.pa{
+   
+    font-size: 40px;
+}
+.namebtn{
+	width: 100%;
+	height : 40px;
+	padding : 0px 20px 5px 20px;
+	background-color: rgb(186, 189, 182);
+	margin-top : 5px;
+}
+.btn{
+    background-color: rgb(186, 189, 182);
+	height: 40px;
+	width: 40px;
+    border-radius: 50%;
+}
+.btn1{
+    margin-top: 5px;
+}
+.tab{
+  border-collapse: collapse;
+  text-align: center;
+  margin:50px;
+}
+td ,th{
+  height: 50px;
+  vertical-align: center;
+  
+}
+th{
+color:purple;
+}
+.flex{
+	display: flex;
+	justify-content:space-between;
+	margin-top: 10px;
+}
+.box1{
+	height: 300px;
+	width: 210px;
+	background: #e6e2d3;
+	border-radius: 10px;
+}
+.box2{
+	height: 300px;
+	width: 210px;
+	background: #e6e2d3;
+	border-radius: 10px;
+	margin-left: 20px;
+}
+.form1{
+    width: 100%;
+    background: #e6e2d3;
+	max-height: 300px;
+	overflow-y: auto;
+    border-radius: 10px;
+    margin-top: 5px;
+    font-size: 20px;
+    align-items: center;
+    text-align: left;
+    padding: 0px 30px;
+}
+.form1::-webkit-scrollbar{
+	width: 10px;
+}
+.under{
+	text-decoration: none;
+}
+.size{
+	margin-top:5px;
+}
+.form3{
+    margin-top: 5px;
+    width: 100%;
+	display:flex;
+    border-radius: 10px;
+    padding: 0px 20px;
+    display: flex;
+}
+input{
+  	height: 50px;
+    width: 350px;
+    padding-left: 10px;
+    font-size: 18px;
+    border: 1px solid silver;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+.text{
+	font-size: 22px;
+}
+.text1{
+	font-size: 30px;
+}
+.button{
+    height: 50px;
+    width: 80px;
+    padding-left: 10px;
+    font-size: 18px;
+    text-align: center;
+}
+.check{
+	height: 15px;
+	width: 15px;
+	display: inline;
+	font-size: 20px;
+}
+.form4{
+	width: 100%;
+    background: #e6e2d3;
+	height: 300px;
+	overflow-y: auto;
+    border-radius: 10px;
+    margin-top: 5px;
+    font-size: 20px;
+    align-items: center;
+    text-align: left;
+    padding: 0px 30px;
+}
