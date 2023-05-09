@@ -1,0 +1,1 @@
+update vt_vote_reg set caption='PMK' where aadhar='432156784321'

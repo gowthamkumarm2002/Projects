@@ -1,0 +1,1 @@
+8|1|8afd0b8a13c483e3ee9d0f1031a338df|df3b8938159872c2dde7601f9adf5860|Voter ID:V1221001, Name:Raj, Reg.Date:25-12-2021,01:27:10 PM, Division:, Aadhar:432156784321, Booth:B001, Caption:RMK|vote
